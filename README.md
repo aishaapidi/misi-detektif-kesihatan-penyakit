@@ -1,6 +1,5 @@
-# misi-detektif-kesihatan-penyakit
+# MISI DETEKTIF KESIHATAN
 Simptom Penyakit Berjangkit
-<!doctype html>
 <html lang="ms"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Misi Detektif Simptom | Pendidikan Kesihatan Tahun 5</title>
 <style>
 :root{--ink:#132f47;--muted:#547086;--accent:#ef862e;--accent2:#ffbf69;--sky:#eaf7fb;--paper:#fff;--surface:#f7fafc;--border:#dce7eb;--green:#157b67;--red:#c44645;--purple:#7257a8;--blue:#267db4;--shadow:0 14px 36px #17344b17}
